@@ -1,0 +1,13 @@
+# Python 3.13 compatible contemporary versions; use the same .venv across this project.
+pandas>=2.2.3,<3
+numpy>=2.0
+openpyxl>=3.1
+scikit-learn>=1.6
+matplotlib>=3.8
+ipykernel>=6.29
+jupyter>=1.0
+
+# Convenções Class 3: notebook no Git em formato texto
+jupytext>=1.16
+black>=24
+# Profiling opcional: instalar separadamente se necessario, por compatibilidade
