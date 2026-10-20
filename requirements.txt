@@ -11,3 +11,5 @@ jupyter>=1.0
 jupytext>=1.16
 black>=24
 # Profiling opcional: instalar separadamente se necessario, por compatibilidade
+ydata-profiling
+setuptools<81
